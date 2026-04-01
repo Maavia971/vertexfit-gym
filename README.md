@@ -75,7 +75,7 @@ This project follows a modern fitness brand identity, focusing on:
 ⚙️ Setup Instructions
 
 1. Clone the repository:
- git clone https://github.com/Maavia971/vertexfit.git
+ git clone (https://github.com/Maavia971/vertexfit.git)
 2. Navigate into the project folder:
    cd vertexfit
 3. Open in browser:
@@ -98,6 +98,6 @@ If you found this project helpful or inspiring, consider giving it a ⭐ on GitH
 
 Maavia Gulshan
 Passionate Frontend Developer focused on building modern, responsive, and user-centric web experiences.
-🌐 GitHub: https://github.com/Maavia971
-💼 LinkedIn:https://www.linkedin.com/in/maavia-gulshan-a27441399/
+🌐 GitHub: [https://github.com/Maavia971]
+💼 LinkedIn: [https://www.linkedin.com/in/maavia-gulshan-a27441399/]
 💪 VertexFit — Elevate. Transform. Conquer.

@@ -98,6 +98,6 @@ If you found this project helpful or inspiring, consider giving it a ⭐ on GitH
 
 Maavia Gulshan
 Passionate Frontend Developer focused on building modern, responsive, and user-centric web experiences.
-🌐 GitHub: [https://github.com/Maavia971]
-💼 LinkedIn: [https://www.linkedin.com/in/maavia-gulshan-a27441399/]
+🌐 GitHub:[Maavia971](https://github.com/Maavia971)
+💼 LinkedIn:[Maavia Gulshan] (https://www.linkedin.com/in/maavia-gulshan-a27441399/)
 💪 VertexFit — Elevate. Transform. Conquer.

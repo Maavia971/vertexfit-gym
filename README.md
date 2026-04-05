@@ -5,6 +5,10 @@ It combines modern UI design, smooth interactions, and performance-focused struc
 
 ---
 
+🌐 Live Demo: [VertexFit Live](https://maavia971.github.io/vertexfit-gym/)
+
+---
+
 ## 🌟 Project Vision
 
 The goal of this project is to simulate a **real-world gym brand website** that:
@@ -62,42 +66,53 @@ VertexFit/
 ├── style.css
 ├── script.js
 ├── gym-equipment.jpeg
+```
+
+---
 
 🎨 Design Philosophy
 
 This project follows a modern fitness brand identity, focusing on:
 
-• Dark theme with high contrast accents
-• Bold typography for strong visual hierarchy
-• Minimal yet impactful layout
-• Smooth  micro-interactions for premium feel
+- Dark theme with high contrast accents
+- Bold typography for strong visual hierarchy
+- Minimal yet impactful layout
+- Smooth micro-interactions for premium feel
+
+---
 
 ⚙️ Setup Instructions
+```
+# Clone the repository:
+   
+ git clone https://github.com/Maavia971/vertexfit.git
+ 
+# Navigate into the project folder:
 
-1. Clone the repository:
- git clone (https://github.com/Maavia971/vertexfit.git)
-2. Navigate into the project folder:
    cd vertexfit
-3. Open in browser:
-    • Run index.html
+   
+# Open in browser:
+# Run index.html
+```
+---
 
 🤝 Contribution
 
 Contributions, suggestions, and feedback are welcome.
 Feel free to fork this repository and improve it further.
 
-📬 Contact
-
-For collaboration or professional opportunities, feel free to connect.
+---
 
 ⭐ Show Your Support
 
 If you found this project helpful or inspiring, consider giving it a ⭐ on GitHub.
+
+---
 
 👤 Author
 
 Maavia Gulshan
 Passionate Frontend Developer focused on building modern, responsive, and user-centric web experiences.
 🌐 GitHub:[Maavia971](https://github.com/Maavia971)
-💼 LinkedIn:[Maavia Gulshan] (https://www.linkedin.com/in/maavia-gulshan-a27441399/)
+💼 LinkedIn:[Maavia Gulshan](https://www.linkedin.com/in/maavia-gulshan-a27441399/)
 💪 VertexFit — Elevate. Transform. Conquer.
